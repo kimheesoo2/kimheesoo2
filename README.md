@@ -7,9 +7,9 @@
 <br/>
 
 **1999.11.22**  
-▶️ **email**&nbsp;&nbsp;&nbsp;khs90890@naver.com  
-▶️ **github**&nbsp;&nbsp;&nbsp;https://github.com/kimheesoo2/kimheesoo2
-▶️ **blog**&nbsp;&nbsp;&nbsp;https://blog.naver.com/khs90890
+▶️ **email**&nbsp;&nbsp;&nbsp;khs90890@naver.com  <br/>
+▶️ **github**&nbsp;&nbsp;&nbsp;https://github.com/kimheesoo2/kimheesoo2<br/>
+▶️ **blog**&nbsp;&nbsp;&nbsp;https://blog.naver.com/khs90890<br/>
 
 <br/>
 
