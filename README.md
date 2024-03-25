@@ -1,13 +1,12 @@
 ## 김희수(kimheesoo2)  
 
 #### Developer dream tree
-> Documents(markdown)  
-> C, Java, Python, DB, Dart, Js  
+> study now  
+> C,Python,html  
 
 <br/>
 
-**1996.03.26**  
-▶️ **portfolio**&nbsp;&nbsp;&nbsp;[[https://0326.notion.site](https://0326.notion.site/e646e86ba9d0440683142ed21132b2eb?pvs=4](https://blog.naver.com/khs90890))  
+**1999.11.22**  
 ▶️ **email**&nbsp;&nbsp;&nbsp;khs90890@naver.com  
 ▶️ **github**&nbsp;&nbsp;&nbsp;
 ▶️ **blog**&nbsp;&nbsp;&nbsp;https://blog.naver.com/khs90890
