@@ -19,4 +19,4 @@
 
 <br/>
 
-[Show Details...](https://github.com/NaHwangje/Portfolio-Dev.Hwangje)  
+[Show Details...] 
