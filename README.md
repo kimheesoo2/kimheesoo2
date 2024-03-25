@@ -1,12 +1,23 @@
-- 👋 Hi, I’m @kimheesoo2
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 김희수(kimheesoo2)  
 
-<!---
-kimheesoo2/kimheesoo2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#### Developer dream tree
+> Documents(markdown)  
+> C, Java, Python, DB, Dart, Js  
+
+<br/>
+
+**1996.03.26**  
+▶️ **portfolio**&nbsp;&nbsp;&nbsp;[[https://0326.notion.site](https://0326.notion.site/e646e86ba9d0440683142ed21132b2eb?pvs=4](https://blog.naver.com/khs90890))  
+▶️ **email**&nbsp;&nbsp;&nbsp;khs90890@naver.com  
+▶️ **github**&nbsp;&nbsp;&nbsp;
+▶️ **blog**&nbsp;&nbsp;&nbsp;https://blog.naver.com/khs90890
+
+<br/>
+
+> 개발자 꿈나무
+
+<img src="https://github-readme-stats.vercel.app/api?username=NaHwangje&theme=default&show_icons=true" height="200"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaHwangje&layout=compact&theme=default" height="200"></a>
+
+<br/>
+
+[Show Details...](https://github.com/NaHwangje/Portfolio-Dev.Hwangje)  
