@@ -15,7 +15,7 @@
 
 > 개발자 꿈나무
 
-<img src="https://github-readme-stats.vercel.app/api?username=NaHwangje&theme=default&show_icons=true" height="200"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimheesoo2&layout=compact&theme=default" height="200"></a>
+<img src="https://github-readme-stats.vercel.app/api?username=kimheesoo2&theme=default&show_icons=true" height="200"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimheesoo2&layout=compact&theme=default" height="200"></a>
 
 <br/>
 
